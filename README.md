@@ -1,3 +1,10 @@
+VIDEOS
+https://youtu.be/mHjOF1Phj2E
+
+
+https://youtu.be/SpjUjZRgdWA
+
+
 ## Estructura del proyecto:
 
 El proyecto se divide en 4 scripts (parte_1.py, parte2.py, parte3.py y parte4.py), y 3 carpetas: datos (datos del proyecto), resultados (resultados obtenidos, nombrados como se ha pedido en el enunciado) y lag (que contiene el archivo coordPlano.npy - la lista de los vértices en mi plano del ajedrez).
